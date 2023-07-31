@@ -1,6 +1,6 @@
 {
   "name": "@vanekt/rendero-react-router5",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "author": "vanekt",
   "license": "MIT",
   "devDependencies": {
@@ -20,7 +20,7 @@
   },
   "dependencies": {
     "react": "^18.2.0",
-    "react-router-dom": "^5"
+    "react-router-dom": "5.2.0"
   },
   "description": ""
 }
