@@ -3,7 +3,7 @@ import { Link, NavLink, Redirect, Route, Switch } from "react-router-dom";
 
 function initModule() {
   return {
-    name: "react-router5",
+    name: "react-router",
     components: {
       router_link: (props, { renderChildren }) => (
         <Link {...props}>{renderChildren()}</Link>
