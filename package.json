@@ -1,6 +1,6 @@
 {
-  "name": "@vanekt/rendero-react-router5",
-  "version": "1.0.4",
+  "name": "@vanekt/rendero-react-router",
+  "version": "1.0.5",
   "author": "vanekt",
   "license": "MIT",
   "devDependencies": {
@@ -18,11 +18,9 @@
     "format": "prettier --write 'src/**/*.{js,jsx}'",
     "lint": "eslint src --ext .js,.jsx --config .eslintrc.js"
   },
-  "dependencies": {
-    "react-router-dom": "5.2.0"
-  },
   "description": "",
   "peerDependencies": {
-    "react": ">=17.0.0"
+    "react": ">=17.0.0",
+    "react-router-dom": ">=5.2.0"
   }
 }
